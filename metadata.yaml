@@ -1,0 +1,27 @@
+_repo: Through-Five-Republics-on-Horseback-Being-an-Account-of-Many-Wanderings-in-South-America_7499
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ray, George Whitfield
+    alias: Ray, G. Whitfield (George Whitfield)
+    birthdate: 1868
+    gutenberg_agent_id: '2490'
+    url: http://www.gutenberg.org/2009/agents/2490
+description: ''
+gutenberg_bookshelf: South America
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7499'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2201'
+- !lcsh 'South America -- Description and travel'
+- !lcsh 'Ray, George Whitfield, b. 1868 -- Travel -- South America'
+- GITenberg
+title: Through Five Republics on Horseback, Being an Account of Many Wanderings in
+  South America
+url: http://www.gutenberg.org/ebooks/7499
